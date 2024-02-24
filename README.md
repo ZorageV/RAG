@@ -23,8 +23,8 @@ I tried implementing rag using langchain and llamaindex, but found llamaindex to
 The Large language model used, embeddings used and database used are all open source so anybody can easily run the model on their system.if you wish to use other llms you are free to go thorugh the llama index documentation.
 
 ### Resources:
-LLM : Mistral 7B ggml model
-Embeddings : Hugging Face BAAI bge base
-Database : ChromaDB and inbuilt vector db of llama index 
+1. LLM : Mistral 7B ggml model
+2. Embeddings : Hugging Face BAAI bge base
+3. Database : ChromaDB and inbuilt vector db of llama index 
 
 
