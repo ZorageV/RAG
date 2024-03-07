@@ -16,15 +16,18 @@ Welcome to the project, This is a  Retrieval-Augmented-Generation system made in
 
 ## Building Process 
 
-### Choosing the framework:
-I tried implementing rag using langchain and llamaindex, but found llamaindex to be better when dealing with multiple files and large files. Langchain on the other offers friendly approach and each process can be easily understood in it, whereas llamaindex uses a central llm which performs all the tasks in a pipeline system so customization can get a little heavy when you are not familar.Llama index in much better in terms of perofrmance and for production purposes.
+### Methodology
+I have gone with RAG(Retrieval Augmented Generation) method instead of fine tuning the  
 
 ### Open Source Resources Used:
 The Large language model used, embeddings used and database used are all open source so anybody can easily run the model on their system.if you wish to use other llms you are free to go thorugh the llama index documentation.
 
 ### Resources:
-1. LLM : Mistral 7B ggml model
+1. LLM : Mistral 7B ggml model, Zephyr (fine Tuned mistral 7b)
 2. Embeddings : Hugging Face BAAI bge base
 3. Database : ChromaDB and inbuilt vector db of llama index 
+
+## Results
+![image](https://github.com/ZorageV/RAG/assets/105437962/6df756fa-b1d8-47b5-9fb0-361a614ae5d0)
 
 
