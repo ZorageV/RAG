@@ -28,6 +28,6 @@ The Large language model used, embeddings used and database used are all open so
 3. Database : ChromaDB and inbuilt vector db of llama index 
 
 ## Results
-![image](https://github.com/ZorageV/RAG/assets/105437962/6df756fa-b1d8-47b5-9fb0-361a614ae5d0)
+![image](results.png)
 
 
