@@ -17,7 +17,7 @@ Welcome to the project, This is a  Retrieval-Augmented-Generation system made in
 ## Building Process 
 
 ### Methodology
-I have gone with RAG(Retrieval Augmented Generation) method instead of fine tuning the  
+I have gone with RAG(Retrieval Augmented Generation) method instead of fine tuning techniques due to time and computation power limitation as well as, during fine tuning LLMs tends to forget knowledge outside of knowledge base that it is bweing fine tuned on resulting in low performance. 
 
 ### Open Source Resources Used:
 The Large language model used, embeddings used and database used are all open source so anybody can easily run the model on their system.if you wish to use other llms you are free to go thorugh the llama index documentation.
