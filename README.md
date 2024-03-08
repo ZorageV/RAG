@@ -31,3 +31,7 @@ The Large language model used, embeddings used and database used are all open so
 ![image](results.png)
 
 
+##Image support 
+I have used LLava for image captioning, which is then passed on to an llm to check the importance of image to the document provided based on the answer if yes display images else don't.
+ 
+
